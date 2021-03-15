@@ -1,0 +1,55 @@
+id,shop_name,date,product_id,product_name,price_for_100gr,unit,href
+1,novus,2021-03-01,novus02856448000000,Ошеек свиной охлажденный без кости,13.2,weight,https://novus.zakaz.ua/ru/products/novus02856448000000/oshiiok-maistri-smaku
+2,novus,2021-03-01,novus02850128000000,Картофель цвет в ассортименте,1.239,weight,https://novus.zakaz.ua/ru/products/novus02850128000000/ovochi-kartoplia
+3,novus,2021-03-01,novus02850048000000,Свекла,0.659,weight,https://novus.zakaz.ua/ru/products/novus02850048000000/ovochi-buriak
+4,novus,2021-03-01,novus02850535000000,Морковь,0.519,weight,https://novus.zakaz.ua/ru/products/novus02850535000000/ovochi-morkva
+5,novus,2021-03-01,novus02850121000000,Капуста,0.499,weight,https://novus.zakaz.ua/ru/products/novus02850121000000/ovochi-kapusta
+6,novus,2021-03-01,novus02850972000000,Лук,0.589,weight,https://novus.zakaz.ua/ru/products/novus02850972000000/ovochi-tsibulia
+7,novus,2021-03-01,04823005203803,Сметана Яготинская 15% 350г,27.89,count,https://novus.zakaz.ua/ru/products/04823005203803/smetana-iagotin-350g
+8,novus,2021-03-01,04820078575721,"Масло подсолнечное Щедрий Дар рафинированное дезодорированное вымороженное марки П 0,87л",47.29,count,https://novus.zakaz.ua/ru/products/04820078575721/oliia-shchedrii-dar-870ml
+9,novus,2021-03-01,04820015942517,Соус томатный Руна Краснодарский фирменный 485г,26.49,count,https://novus.zakaz.ua/ru/products/04820015942517/sous-priprava-runa-485g
+10,fora,2021-03-01,112_1292_32694,Свинячий ошийок без кістки ,13.04,weight,https://shop.fora.ua/index.php?route=product/search&search=112_1292_32694
+11,fora,2021-03-01,112_1326_531296,Картопля біла ,1.1,weight,https://shop.fora.ua/index.php?route=product/search&search=112_1326_531296
+12,fora,2021-03-01,112_1326_371674,Буряк митий ,1.29,weight,https://shop.fora.ua/index.php?route=product/search&search=112_1326_371674
+13,fora,2021-03-01,112_1326_34650,Морква ,0.68,weight,https://shop.fora.ua/index.php?route=product/search&search=112_1326_34650
+14,fora,2021-03-01,112_1326_32572,Капуста Білоголова ,0.63,weight,https://shop.fora.ua/index.php?route=product/search&search=112_1326_32572
+15,fora,2021-03-01,112_1326_32573,Цибуля ріпчата жовта ,0.65,weight,https://shop.fora.ua/index.php?route=product/search&search=112_1326_32573
+16,fora,2021-03-01,112_1340_540796,Сметана Яготинська  15% стакан ,24.99,count,https://shop.fora.ua/index.php?route=product/search&search=112_1340_540796
+17,fora,2021-03-01,112_1344_757520,Олія соняшникова Щедрий Дар холодна рафінація ,51.49,count,https://shop.fora.ua/index.php?route=product/search&search=112_1344_757520
+18,fora,2021-03-01,112_1372_318797,Соус Руна Краснодарський фірмовий ,25.99,count,https://shop.fora.ua/index.php?route=product/search&search=112_1372_318797
+19,fora,2021-03-02,112_1292_32694,Свинячий ошийок без кістки ,13.74,weight,https://shop.fora.ua/index.php?route=product/search&search=112_1292_32694
+20,fora,2021-03-02,112_1326_531296,Картопля біла ,1.19,weight,https://shop.fora.ua/index.php?route=product/search&search=112_1326_531296
+21,fora,2021-03-02,112_1326_371674,Буряк митий ,1.36,weight,https://shop.fora.ua/index.php?route=product/search&search=112_1326_371674
+22,fora,2021-03-02,112_1326_34650,Морква ,0.69,weight,https://shop.fora.ua/index.php?route=product/search&search=112_1326_34650
+23,fora,2021-03-02,112_1326_32572,Капуста Білоголова ,0.63,weight,https://shop.fora.ua/index.php?route=product/search&search=112_1326_32572
+24,fora,2021-03-02,112_1326_32573,Цибуля ріпчата жовта ,0.69,weight,https://shop.fora.ua/index.php?route=product/search&search=112_1326_32573
+25,fora,2021-03-02,112_1340_540796,Сметана Яготинська  15% стакан ,24.99,count,https://shop.fora.ua/index.php?route=product/search&search=112_1340_540796
+26,fora,2021-03-02,112_1344_757520,Олія соняшникова Щедрий Дар холодна рафінація ,51.49,count,https://shop.fora.ua/index.php?route=product/search&search=112_1344_757520
+27,fora,2021-03-02,112_1372_318797,Соус Руна Краснодарський фірмовий ,25.99,count,https://shop.fora.ua/index.php?route=product/search&search=112_1372_318797
+28,novus,2021-03-02,novus02856448000000,Ошеек свиной охлажденный без кости,14.4,weight,https://novus.zakaz.ua/ru/products/novus02856448000000/oshiiok-maistri-smaku
+29,novus,2021-03-02,novus02850128000000,Картофель цвет в ассортименте,1.239,weight,https://novus.zakaz.ua/ru/products/novus02850128000000/ovochi-kartoplia
+30,novus,2021-03-02,novus02850048000000,Свекла,0.659,weight,https://novus.zakaz.ua/ru/products/novus02850048000000/ovochi-buriak
+31,novus,2021-03-02,novus02850535000000,Морковь,0.519,weight,https://novus.zakaz.ua/ru/products/novus02850535000000/ovochi-morkva
+32,novus,2021-03-02,novus02850121000000,Капуста,0.499,weight,https://novus.zakaz.ua/ru/products/novus02850121000000/ovochi-kapusta
+33,novus,2021-03-02,novus02850972000000,Лук,0.589,weight,https://novus.zakaz.ua/ru/products/novus02850972000000/ovochi-tsibulia
+34,novus,2021-03-02,04823005203803,Сметана Яготинская 15% 350г,27.89,count,https://novus.zakaz.ua/ru/products/04823005203803/smetana-iagotin-350g
+35,novus,2021-03-02,04820078575721,"Масло подсолнечное Щедрий Дар рафинированное дезодорированное вымороженное марки П 0,87л",47.29,count,https://novus.zakaz.ua/ru/products/04820078575721/oliia-shchedrii-dar-870ml
+36,novus,2021-03-02,04820015942517,Соус томатный Руна Краснодарский фирменный 485г,26.49,count,https://novus.zakaz.ua/ru/products/04820015942517/sous-priprava-runa-485g
+37,fora,2021-03-03,112_1292_32694,Свинячий ошийок без кістки ,13.74,weight,https://shop.fora.ua/index.php?route=product/search&search=112_1292_32694
+38,fora,2021-03-03,112_1326_531296,Картопля біла ,1.19,weight,https://shop.fora.ua/index.php?route=product/search&search=112_1326_531296
+39,fora,2021-03-03,112_1326_371674,Буряк митий ,1.36,weight,https://shop.fora.ua/index.php?route=product/search&search=112_1326_371674
+40,fora,2021-03-03,112_1326_34650,Морква ,0.69,weight,https://shop.fora.ua/index.php?route=product/search&search=112_1326_34650
+41,fora,2021-03-03,112_1326_32572,Капуста Білоголова ,0.63,weight,https://shop.fora.ua/index.php?route=product/search&search=112_1326_32572
+42,fora,2021-03-03,112_1326_32573,Цибуля ріпчата жовта ,0.69,weight,https://shop.fora.ua/index.php?route=product/search&search=112_1326_32573
+43,fora,2021-03-03,112_1340_540796,Сметана Яготинська  15% стакан ,24.99,count,https://shop.fora.ua/index.php?route=product/search&search=112_1340_540796
+44,fora,2021-03-03,112_1344_757520,Олія соняшникова Щедрий Дар холодна рафінація ,51.49,count,https://shop.fora.ua/index.php?route=product/search&search=112_1344_757520
+45,fora,2021-03-03,112_1372_318797,Соус Руна Краснодарський фірмовий ,25.99,count,https://shop.fora.ua/index.php?route=product/search&search=112_1372_318797
+46,novus,2021-03-03,novus02856448000000,Ошеек свиной охлажденный без кости,14.4,weight,https://novus.zakaz.ua/ru/products/novus02856448000000/oshiiok-maistri-smaku
+47,novus,2021-03-03,novus02850128000000,Картофель цвет в ассортименте,1.239,weight,https://novus.zakaz.ua/ru/products/novus02850128000000/ovochi-kartoplia
+48,novus,2021-03-03,novus02850048000000,Свекла,0.659,weight,https://novus.zakaz.ua/ru/products/novus02850048000000/ovochi-buriak
+49,novus,2021-03-03,novus02850535000000,Морковь,0.519,weight,https://novus.zakaz.ua/ru/products/novus02850535000000/ovochi-morkva
+50,novus,2021-03-03,novus02850121000000,Капуста,0.499,weight,https://novus.zakaz.ua/ru/products/novus02850121000000/ovochi-kapusta
+51,novus,2021-03-03,novus02850972000000,Лук,0.589,weight,https://novus.zakaz.ua/ru/products/novus02850972000000/ovochi-tsibulia
+52,novus,2021-03-03,04823005203803,Сметана Яготинская 15% 350г,27.89,count,https://novus.zakaz.ua/ru/products/04823005203803/smetana-iagotin-350g
+53,novus,2021-03-03,04820078575721,"Масло подсолнечное Щедрий Дар рафинированное дезодорированное вымороженное марки П 0,87л",47.29,count,https://novus.zakaz.ua/ru/products/04820078575721/oliia-shchedrii-dar-870ml
+54,novus,2021-03-03,04820015942517,Соус томатный Руна Краснодарский фирменный 485г,26.49,count,https://novus.zakaz.ua/ru/products/04820015942517/sous-priprava-runa-485g
